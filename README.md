@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!-- Hi there! 👋 -->
 
 <h1 align="center">Hi, I'm Aman Kumar 👨‍💻</h1>
 <h3 align="center">Student | Aspiring Developer | Tech Enthusiast</h3>
@@ -50,13 +48,13 @@ Tech Stack: Node.js, MongoDB, React, Express, and more.
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/amankum2004/" target="_blank">
+  <a href="[https://www.linkedin.com/in/amankum2004/](https://www.linkedin.com/in/aman-kumar-6081a9280/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/amankum2004" target="_blank">
+  <a href="[https://twitter.com/amankum2004](https://x.com/amanIITian)" target="_blank">
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://t.me/amankum2004" target="_blank">
+  <a href="[https://t.me/amankum2004](https://web.telegram.org/a/)" target="_blank">
     <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
