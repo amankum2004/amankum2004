@@ -43,7 +43,7 @@ Tech Stack: MongoDB, Express, React, Node.js and more.
 
 **🔗 [GitHub Repo](https://github.com/amankum2004/sbt)**
 
-**🌐 [Live Website]([https://salonify.app](https://salonbookingtime.vercel.app/))**
+**🌐 [Live Website](https://salonbookingtime.vercel.app/)**
 
 ---
 
