@@ -29,7 +29,7 @@
 ### 🚀 About Me
 
 - 🎓 I'm a student passionate about building and learning new things in tech.
-- 💡 I enjoy working with Python, C++, JavaScript, Node.js, React, Machine Learning, and more.
+- 💡 I enjoy working with Python, C++, JavaScript, Node.js, React, Machine Learning,Deep Learning and more.
 - 🐧 Love the power of Linux and open source.
 - 🤝 Always up for collaboration and learning from the community!
 
