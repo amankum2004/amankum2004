@@ -39,9 +39,11 @@
 
 #### [Salonify (SBT) – Salon Booking Time](https://github.com/amankum2004/sbt)
 A smart and efficient platform for easy salon appointment bookings.  
-Tech Stack: Node.js, MongoDB, React, Express, and more.
+Tech Stack: MongoDB, Express, React, Node.js and more.
 
-[![Readme Card](https://github.com/amankum2004/sbt/blob/main/README.md)](https://github.com/amankum2004/sbt)
+**🔗 [GitHub Repo](https://github.com/amankum2004/sbt)**
+
+**🌐 [Live Website]([https://salonify.app](https://salonbookingtime.vercel.app/))**
 
 ---
 
