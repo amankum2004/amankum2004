@@ -50,13 +50,13 @@ Tech Stack: MongoDB, Express, React, Node.js and more.
 ### 📫 Connect with Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/aman-kumar-6081a9280/](https://www.linkedin.com/in/aman-kumar-6081a9280/)" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-kumar-6081a9280/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[https://x.com/amanIITian](https://x.com/amanIITian)" target="_blank">
+  <a href="https://x.com/amanIITian" target="_blank">
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="[https://web.telegram.org/a/](https://web.telegram.org/a/)" target="_blank">
+  <a href="https://web.telegram.org/a/" target="_blank">
     <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
