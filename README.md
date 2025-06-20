@@ -41,7 +41,7 @@
 A smart and efficient platform for easy salon appointment bookings.  
 Tech Stack: Node.js, MongoDB, React, Express, and more.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amankum2004&repo=sbt)](https://github.com/amankum2004/sbt)
+[![Readme Card](https://github.com/amankum2004/sbt/blob/main/README.md)](https://github.com/amankum2004/sbt)
 
 ---
 
