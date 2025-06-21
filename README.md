@@ -37,7 +37,7 @@
 
 ### 🌟 Featured Project
 
-#### [Salonify (SBT) – Salon Booking Time](https://github.com/amankum2004/sbt)
+#### [Salonify (SBT) – Salon Booking Time](https://salonbookingtime.vercel.app/)
 A smart and efficient platform for easy salon appointment bookings.  
 Tech Stack: MongoDB, Express, React, Node.js and more.
 
